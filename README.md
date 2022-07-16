@@ -1,3 +1,5 @@
+![](https://github.com/lowcodelewis/lowcodelewis/blob/main/LowCodeLewis.png)
+
 # Hi! I'm Lewis :)
 
 * 🤵 When it comes to 'work', I'm a Microsoft Power Platform & Dynamics 365 developer
