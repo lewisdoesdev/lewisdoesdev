@@ -1,4 +1,4 @@
-![](https://github.com/lowcodelewis/lowcodelewis/blob/main/LowCodeLewis.png)
+![](https://github.com/lowcodelewis/lowcodelewis/blob/main/UntitledDesign.png)
 
 # Hi! I'm Lewis :)
 
